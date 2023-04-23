@@ -2,6 +2,15 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+# hosting link- https://sage-longma-5560d5.netlify.app/
+
+# HOW TO RUN THE PROJECT
+
+1.  npm install
+2.  npm start
+3.  On Chrome :-  http://localhost:3000/
+
 ## Available Scripts
 
 In the project directory, you can run:
